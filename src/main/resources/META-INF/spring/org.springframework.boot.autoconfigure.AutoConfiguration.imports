@@ -1,3 +1,2 @@
 com.lxz.autoconfigure.ExceptionVoFactoryConfig
-com.lxz.autoconfigure.GlobalExceptionHandler
 com.lxz.autoconfigure.MybatisPlusConfig

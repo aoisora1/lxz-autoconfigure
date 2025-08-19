@@ -1,2 +1,3 @@
 com.lxz.autoconfigure.ExceptionVoFactoryConfig
 com.lxz.autoconfigure.MybatisPlusConfig
+com.lxz.autoconfigure.security.SecurityConfig

@@ -21,6 +21,7 @@ import java.util.List;
  * @Author 86184
  * @Date 2024/10/2 15:58
  */
+//TODO 怎么在引用项目生效
 @RestControllerAdvice
 public class GlobalExceptionHandler {
     @Autowired

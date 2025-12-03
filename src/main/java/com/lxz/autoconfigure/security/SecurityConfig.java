@@ -10,8 +10,9 @@ import org.springframework.security.web.SecurityFilterChain;
 
 // TODO 应该放在gateway里面，不用每个项目都启动配置，所有人机接口都通过gateway检验登录状态和转发
 // TODO gateway就涉及了查user表，直接再写一份mapper，不用user模块提供api形成依赖
-@Configuration
-@EnableWebSecurity
+// TODO 改为jwt 放在gateway中
+//@Configuration
+//@EnableWebSecurity
 public class SecurityConfig {
 
     @Bean
